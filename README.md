@@ -1,12 +1,13 @@
 # ✫ About Me:
 
-Welcome to my GitHub profile! I'm **Stephan Malobeka**, a passionate systems engineering student and aspiring backend developer with a deep interest in creating innovative solutions. Feel free to explore my repositories and reach out if you'd like to collaborate!
+Welcome to my GitHub profile! I'm **Stephan Malobeka**, a passionate final-year Computer Systems Engineering student at the University of Zambia and an aspiring backend developer. I’m dedicated to building smart, scalable, and user-friendly solutions that solve real-world problems. Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 ## 🚀 About Me
 
-- 🌟 **Current Projects:**  
-  - Developing a freelance website using React that showcases and sells artwork.  
-  - Crafting modern, responsive web applications with sleek design and seamless functionality.  
+- 🌟 **Recent Projects:**  
+  - [Kubaza Market](https://malozdev.github.io/Genesis-Projects/): A freelance desktop-view art selling website.  
+  - [Makondo Steel Limited](https://makondo-steel-limited.web.app/): A fully responsive website for a steel construction company.  
+  - [Story You – AI Journal](https://malozdev.github.io/Story-Your-Ai-journal/): An AI-powered journaling web app designed to make journaling more enjoyable.
 
 - 🌱 **Always Learning:**  
   I'm constantly exploring new technologies like graphic design, advanced encoding techniques for media, and machine learning frameworks.
@@ -18,9 +19,9 @@ Welcome to my GitHub profile! I'm **Stephan Malobeka**, a passionate systems eng
   - Self-learning strategies for success.  
 
 - 📧 **How to Reach Me:**  
-  - Email: [malozdev@gmail.com](mailto:malozdev@gmail.com)
-  - Current project
-  - Website: [Genesis Projects](https://malozdev.github.io/Genesis-Projects/)  
+  - **Email:** [malozdev@gmail.com](mailto:malozdev@gmail.com)  
+  - **Phone:** +260 975 623 742  
+  - **LinkedIn:** [Stephan Malobeka](https://www.linkedin.com/in/stephan-malobeka-154a7b31b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 # 💻 Tech Stack:
 
