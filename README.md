@@ -6,7 +6,7 @@ Welcome, This is **Steph**, famously known as **systemCall()**. I am a passionat
 
 - 🌟 **Recent Projects:**
 
-  - [Centurion Developers](https://malozdev.github.io/cent_dev_website/): A modern, professional website for a software development company, showcasing services, portfolio, and team.
+  - [CenDev Innovations](https://cendev.vercel.app): A modern, professional website for a software development company, showcasing services, portfolio, and team.
   - [Pakalale Trading Platform](https://malozdev.github.io/pakalale/): A local trading platform connecting clients to their desired traders in Zambia's biggest trading area (Mu Town).
   - [Kubaza Market](https://malozdev.github.io/Genesis-Projects/): A freelance desktop-view art selling website.
   - [Makondo Steel Limited](https://makondo-steel-limited.web.app/): A fully responsive website for a steel construction company.
